@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AudioComponents</key>
+	<array>
+		<dict>
+			<key>description</key>
+			<string>TestSynthAU</string>
+			<key>factoryFunction</key>
+			<string>TestSynthAUFactory</string>
+			<key>manufacturer</key>
+			<string>UWE_</string>
+			<key>name</key>
+			<string>UWE: TestSynthAU</string>
+			<key>subtype</key>
+			<string>Jcdm</string>
+			<key>type</key>
+			<string>aumf</string>
+			<key>version</key>
+			<integer>65536</integer>
+		</dict>
+	</array>
+	<key>BuildMachineOSBuild</key>
+	<string>15D21</string>
+	<key>CFBundleExecutable</key>
+	<string>TestSynthAU</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.UWE.TestSynthAU</string>
+	<key>CFBundleName</key>
+	<string>TestSynthAU</string>
+	<key>CFBundlePackageType</key>
+	<string>TDMw</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleSignature</key>
+	<string>PTul</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>7C1002</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>15C43</string>
+	<key>DTSDKName</key>
+	<string>macosx10.11</string>
+	<key>DTXcode</key>
+	<string>0721</string>
+	<key>DTXcodeBuild</key>
+	<string>7C1002</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>University of the West of England</string>
+</dict>
+</plist>

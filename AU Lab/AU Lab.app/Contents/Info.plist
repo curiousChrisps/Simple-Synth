@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>4D195a</string>
+	<key>CFBundleAllowMixedLocalizations</key>
+	<string>YES</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>trak</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>PPDocIcons.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>Track Document</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>pptr</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>NSDocumentClass</key>
+			<string>TrackDocument</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>AU Lab</string>
+	<key>CFBundleGetInfoString</key>
+	<string>2.2.2 ©2012, Apple, Inc</string>
+	<key>CFBundleIconFile</key>
+	<string>PPIcon.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.audio.aulab</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>AU Lab</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.2.2</string>
+	<key>CFBundleSignature</key>
+	<string>aulb</string>
+	<key>CFBundleVersion</key>
+	<string>2.2.1</string>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string></string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>4D195a</string>
+	<key>DTSDKName</key>
+	<string></string>
+	<key>DTXcode</key>
+	<string>0430</string>
+	<key>DTXcodeBuild</key>
+	<string></string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>LSArchitecturePriority</key>
+	<array>
+		<string>i386</string>
+		<string>ppc</string>
+		<string>x86_64</string>
+		<string>ppc64</string>
+	</array>
+	<key>NSAppleScriptEnabled</key>
+	<string>YES</string>
+	<key>NSDisablePersistence</key>
+	<string>YES</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>PlayPenApp</string>
+	<key>OSAScriptingDefinition</key>
+	<string>AULab.sdef</string>
+</dict>
+</plist>
